@@ -23,8 +23,6 @@ body {
     background-color: #1b0f1d;
 }
 section.login {
-    display: flex;
-    flex-direction: column;
     padding-bottom: 50px;
 }
 
